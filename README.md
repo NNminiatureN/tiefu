@@ -2,9 +2,9 @@
 铁府计划   
 ##库引用   
 	###jQuery,swiper   
-##文件夹结构   
-teifu
-   |-------images  
+##文件夹结构     
+teifu     
+   |-------images    
    |-------css  
    			|----index.css   
    			|----tiehu.css   
