@@ -5,9 +5,9 @@
 ##文件夹结构     
 teifu     
    |-------images    
-   |-------css  
-   			|----index.css   
-   			|----tiehu.css   
+   |-------css    
+   			|----index.css                  
+   			|----tiehu.css                   
    |-------js    
    			|----index.js   
    			|----tiehu.js   
